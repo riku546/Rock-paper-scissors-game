@@ -79,6 +79,11 @@ section{
 
 }
 
+options.fade{
+opacity 0;
+}
+
+
 .backButton{
   
  display: flex;
