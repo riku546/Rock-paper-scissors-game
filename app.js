@@ -63,6 +63,8 @@ computerHand.src=`./assets/${computerChoice}.png`;
 playerHand.style.animation="shakePlayer 2s ease";
 computerHand.style.animation="shankeComputer 2s ease";
 
+options.classlist.add("fade");
+  
 });
 });
 };
